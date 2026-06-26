@@ -1,21 +1,21 @@
-# MediaSucker
+# Refract
 
-**Download video or audio from almost any site — on your Mac.** An app by CIΛMΛC.
+**Pull any video or audio from the web — then split it into its parts.** An app by CIΛMΛC, for macOS.
 
-### [↓ Download for macOS](https://github.com/cia-mac/mediasucker/releases/latest/download/MediaSucker.dmg)
+### [↓ Download for macOS](https://github.com/cia-mac/refract/releases/latest/download/Refract.dmg)
 
-Paste a link, get the file. MediaSucker works with **1,700+ sites** (YouTube, Vimeo, X, TikTok, Twitch, SoundCloud, and more) via a bundled engine — no setup, no Terminal, no Homebrew.
+Paste a link, get the file. Refract downloads from **1,700+ sites** (YouTube, Vimeo, X, TikTok, Twitch, SoundCloud, and more) via a bundled engine — no setup, no Terminal, no Homebrew. And it can take a track apart into stems: **vocals, drums, bass, other** — or just the instrumental.
 
-## Features
-- Video up to **4K**, or audio as **MP3**
+## What it does
+- **Download** video up to 4K, or audio as MP3
+- **Split** a song into stems (vocals / drums / bass / other), or pull a clean instrumental or acapella
 - **Batch** downloads and **playlist** expansion
 - **Self-contained** — the download engine ships inside the app
 - Drag finished files straight into Finder, an editor, or a message
-- Clean, native macOS app
 
 ## Install
-1. Download the DMG above and drag MediaSucker to Applications.
-2. **First launch:** right-click the app → **Open** (it's signed for direct distribution, not the App Store).
+1. Download the DMG above and drag Refract to Applications.
+2. **First launch:** right-click the app → **Open** (signed for direct distribution, not the App Store).
 3. Apple Silicon Mac.
 
 ## Notes
