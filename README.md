@@ -16,7 +16,9 @@ Paste a link, get the file. Refract downloads from **1,700+ sites** (YouTube, Vi
 ## Install
 1. Download the DMG above and drag Refract to Applications.
 2. **First launch:** right-click the app → **Open** (signed for direct distribution, not the App Store).
-3. Apple Silicon Mac.
+3. macOS, **Intel or Apple Silicon** (universal).
+
+Stem splitting fetches a one-time engine (~1 GB) the first time you use it — Refract handles that for you with one click, no Python or setup required.
 
 ## Notes
 For personal use — respect creators' rights and each site's terms of service.
